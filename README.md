@@ -24,3 +24,5 @@ MyTweets: A jQuery twitter plugin. Shows your latest tweets.
 ```
 	<div id="divTweets"></div>
 ```
+## License
+Copyright (c) 2013 Vicente García Dorado Licensed under the GPL license.
