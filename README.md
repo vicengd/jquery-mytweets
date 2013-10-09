@@ -1,5 +1,7 @@
 ## Description
 
+#### This no longer works since Twitter updated their API on June 11, 2013
+
 MyTweets: A jQuery twitter plugin. Shows your latest tweets.
 
 ## Getting Started
