@@ -1,8 +1,8 @@
 ## Description
 
-#### This no longer works since Twitter updated their API on June 11, 2013
-
 MyTweets: A jQuery twitter plugin. Shows your latest tweets.
+
+The latest version of MyTweets support the Twitter API v1.1
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ MyTweets: A jQuery twitter plugin. Shows your latest tweets.
 	<script>
 		$(function()
 		{
-			$('#divTweets').mytweets({username: 'yourusername', count: 3});
+			$('#divTweets').mytweets({screen_name: 'twitter', count: '15'});
 		});
 	</script>
 ```
@@ -26,5 +26,14 @@ MyTweets: A jQuery twitter plugin. Shows your latest tweets.
 ```
 	<div id="divTweets"></div>
 ```
+
+3. On config.php complete your Twitter settings:
+```
+OAUTH_TOKEN
+OAUTH_TOKEN_SECRET
+CONSUMER_KEY
+CONSUMER_SECRET
+```
+
 ## License
 Copyright (c) 2013 Vicente García Dorado Licensed under the GPL license.
