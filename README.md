@@ -36,4 +36,4 @@ CONSUMER_SECRET
 ```
 
 ## License
-Copyright (c) 2014 Vicente Garcia Licensed under the [MIT license] (https://github.com/vicentegarcia/jquery-mytweets/blob/master/MIT-LICENSE.txt)
+This project is licensed under the [MIT license] (https://github.com/vicentegarcia/jquery-mytweets/blob/master/MIT-LICENSE.txt)
