@@ -11,6 +11,13 @@
         "name": "Vicente Garcia",
         "url": "http://vicentegarcia.com"
     },
+    "maintainers": [
+        {
+            "name": "Vicente Garcia",
+            "email": "vicengd@gmail.com",
+            "url": "http://vicentegarcia.com"
+        }
+    ],
     "licenses": [
         {
             "type": "MIT",
