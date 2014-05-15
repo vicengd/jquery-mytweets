@@ -1,7 +1,7 @@
 /*
- * MyTweets: A jQuery twitter plugin. Shows your latest tweets - v1.2.1 - 15/05/2014
+ * MyTweets: A jQuery twitter plugin. Shows your latest tweets
  * Copyright (c) 2014 Vicente Garcia (v@vicentegarcia.com)
- * Licensed under the MIT license (http://opensource.org/licenses/MIT)
+ * Licensed under the MIT license (https://github.com/vicentegarcia/jquery-mytweets/blob/master/MIT-LICENSE.txt)
  */
 (function($) {
 	/* constructor for Plugin */
