@@ -1,0 +1,27 @@
+{
+    "name": "jquery-mytweets",
+    "title": "MyTweets: A jQuery twitter plugin.",
+    "description": "Shows your latest tweets.",
+    "keywords": [
+        "twitter",
+        "tweet"
+    ],
+    "version": "1.2.1",
+    "author": {
+        "name": "Vicente Garcia",
+        "url": "http://vicentegarcia.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/vicentegarcia/jquery-mytweets/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/vicentegarcia/jquery-mytweets/issues",
+    "homepage": "https://github.com/vicentegarcia/jquery-mytweets",
+    "docs": "https://github.com/vicentegarcia/jquery-mytweets",
+    "download": "https://github.com/vicentegarcia/jquery-mytweets/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
