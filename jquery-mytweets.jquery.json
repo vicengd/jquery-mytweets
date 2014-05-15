@@ -6,9 +6,10 @@
         "twitter",
         "tweet"
     ],
-    "version": "1.2.1",
+    "version": "1.2.2",
     "author": {
         "name": "Vicente Garcia",
+        "email": "vicengd@gmail.com",
         "url": "http://vicentegarcia.com"
     },
     "maintainers": [
